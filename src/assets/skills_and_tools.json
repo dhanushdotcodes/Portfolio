@@ -1,13 +1,14 @@
 {
   "Languages": ["TypeScript", "JavaScript", "Python"],
-  "Frameworks": ["Next.js", "React", "Express", "FastAPI"],
+  "Frameworks": ["Next.js", "React", "Express", "FastAPI", "LangGraph"],
   "Infrastructure": [
     "PostgreSQL",
     "Docker",
     "Prisma",
     "Drizzle",
     "Nginx",
-    "GitHub Actions"
+    "GitHub Actions",
+    "Azure DevOps"
   ],
   "Libraries & Tools": [
     "Zustand",
@@ -15,6 +16,8 @@
     "Zod",
     "Tailwind CSS",
     "motion.dev",
+    "Anthropic API",
+    "Appium",
     "Git",
     "GitHub",
     "Vercel"

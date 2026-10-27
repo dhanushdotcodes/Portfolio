@@ -14,11 +14,12 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://dhanush.codes"),
   title: "Dhanush Draksharapu | Full Stack Developer",
   description:
-    "Portfolio of Dhanush Draksharapu (dhanushdotcodes), an Applied AI and Full Stack Developer specializing in Next.js, TypeScript, and AI-powered applications. Previously at Zentor.",
+    "Portfolio of Dhanush Draksharapu (dhanushdotcodes), an Applied AI and Full Stack Developer specializing in Next.js, TypeScript, and AI-powered applications. Currently at InnoWave, previously at Zentor.",
   keywords: [
     "Dhanush Draksharapu",
     "D Dhanush",
     "dhanushdotcodes",
+    "Dhanush Draksharapu InnoWave",
     "Dhanush Draksharapu Zentor",
     "Dhanush Draksharapu Linkedin",
     "Dhanush Draksharapu X",
@@ -78,6 +79,10 @@ export default function RootLayout({
     url: "https://dhanush.codes",
     image: "https://dhanush.codes/preview.png",
     jobTitle: "Applied AI and Full Stack Developer",
+    worksFor: {
+      "@type": "Organization",
+      name: "InnoWave",
+    },
     alumniOf: {
       "@type": "Organization",
       name: "Zentor",

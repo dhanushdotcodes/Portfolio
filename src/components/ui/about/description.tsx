@@ -16,8 +16,9 @@ export default function Description() {
       </p>
       {/* Previous Experience */}
       <p>
-        I am currently{" "}
-        <span className="text-text-primary font-medium">open for work</span>.
+        I currently work at{" "}
+        <span className="text-text-primary font-medium">InnoWave</span> as a
+        Trainee Developer, building AI-powered test automation workflows.
         Previously, I worked at{" "}
         <span className="text-text-primary font-medium">Zentor</span> as a Full
         Stack Developer. I built a dashboard to manage orders and helped make
