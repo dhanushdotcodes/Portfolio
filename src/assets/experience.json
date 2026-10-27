@@ -1,5 +1,19 @@
 [
   {
+    "company": "InnoWave",
+    "location": "On-Site - Bengaluru",
+    "role": "Trainee Developer",
+    "period": "May 2026 – Present",
+    "skills": ["LangGraph", "Anthropic API", "FastAPI", "React", "Appium", "Azure DevOps", "GitHub Actions"],
+    "shortDescription": "Built an end-to-end AI-powered test automation workflow, turning Azure DevOps user stories into generated test cases, live AI-assisted mobile app interactions, and reusable automated test scripts.",
+    "bulletPoints": [
+      "Developed an end-to-end AI-powered test automation workflow to fetch user stories from Azure DevOps (ADO), generate test cases, perform AI-assisted mobile app interactions, and produce reusable automated test scripts.",
+      "Built AI-powered features for automated test case and test script generation from ADO user stories using LangGraph, Anthropic API, and React.",
+      "Developed an AI-driven live mobile app automation solution using FastAPI, LangGraph, and Appium locators to navigate application workflows and generate reusable test scripts.",
+      "Enabled cross-device execution of generated test scripts on devices connected to Mac Mini infrastructure through GitHub Actions."
+    ]
+  },
+  {
     "company": "Zentor",
     "location": "Remote",
     "role": "Full Stack Developer",
